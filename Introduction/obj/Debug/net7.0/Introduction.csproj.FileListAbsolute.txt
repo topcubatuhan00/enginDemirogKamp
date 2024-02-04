@@ -1,0 +1,14 @@
+C:\EnginDemirog\Introduction\bin\Debug\net7.0\Introduction.exe
+C:\EnginDemirog\Introduction\bin\Debug\net7.0\Introduction.deps.json
+C:\EnginDemirog\Introduction\bin\Debug\net7.0\Introduction.runtimeconfig.json
+C:\EnginDemirog\Introduction\bin\Debug\net7.0\Introduction.dll
+C:\EnginDemirog\Introduction\bin\Debug\net7.0\Introduction.pdb
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\Introduction.AssemblyInfoInputs.cache
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\Introduction.AssemblyInfo.cs
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\Introduction.csproj.CoreCompileInputs.cache
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\Introduction.dll
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\refint\Introduction.dll
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\Introduction.pdb
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\Introduction.genruntimeconfig.cache
+C:\EnginDemirog\Introduction\obj\Debug\net7.0\ref\Introduction.dll
