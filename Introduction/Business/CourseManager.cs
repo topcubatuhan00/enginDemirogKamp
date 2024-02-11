@@ -1,29 +1,17 @@
-﻿using Introduction.Entities;
+﻿using Introduction.DataAccess.Abstracts;
+using Introduction.Entities;
 
 namespace Introduction.Business;
 
 public class CourseManager
 {
-    Course[] courses = new Course[2];
-    public CourseManager()
+    private readonly ICourseDal _courseDal;
+    public CourseManager(ICourseDal courseDal)
     {
-        Course course = new Course();
-        course.Id = 1;
-        course.Name = "C#";
-        course.Description = ".Net 8";
-        course.Price = 0;
-
-        Course course1 = new Course();
-        course1.Id = 2;
-        course1.Name = "Java";
-        course1.Description = "Eclipse";
-        course1.Price = 100;
-
-        courses[0] = course;
-        courses[1] = course1;
+        _courseDal = courseDal;
     }
-    public Course[] GetAll()
+    public List<Course> GetAll()
     {
-        return courses;
+        return _courseDal.GetAll();
     }
 }
